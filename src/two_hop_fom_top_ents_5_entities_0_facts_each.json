@@ -1,0 +1,1124 @@
+[
+  {
+    "prompt": "The names of the siblings of the father of Shahnaz Pahlavi are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q256878",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The names of the siblings of the father of Shahnaz Pahlavi are",
+    "second_relation": "SIBLING",
+    "second_hop_target_ids": [
+      "Q5940835"
+    ]
+  },
+  {
+    "prompt": "The names of the siblings of the father of Reza Pahlavi are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q334871",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The names of the siblings of the father of Reza Pahlavi are",
+    "second_relation": "SIBLING",
+    "second_hop_target_ids": [
+      "Q5940835"
+    ]
+  },
+  {
+    "prompt": "The names of the siblings of the father of Farahnaz Pahlavi are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q922206",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The names of the siblings of the father of Farahnaz Pahlavi are",
+    "second_relation": "SIBLING",
+    "second_hop_target_ids": [
+      "Q5940835"
+    ]
+  },
+  {
+    "prompt": "The names of the siblings of the father of Ali Reza Pahlavi are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q1070829",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The names of the siblings of the father of Ali Reza Pahlavi are",
+    "second_relation": "SIBLING",
+    "second_hop_target_ids": [
+      "Q5940835"
+    ]
+  },
+  {
+    "prompt": "The names of the siblings of the father of Leila Pahlavi are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q1136913",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The names of the siblings of the father of Leila Pahlavi are",
+    "second_relation": "SIBLING",
+    "second_hop_target_ids": [
+      "Q5940835"
+    ]
+  },
+  {
+    "prompt": "The name of the siblings in law of Farah Pahlavi are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q164111",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The name of the siblings in law of Farah Pahlavi are",
+    "second_relation": "SIBLING",
+    "second_hop_target_ids": [
+      "Q5940835"
+    ]
+  },
+  {
+    "prompt": "The name of the siblings in law of Soraya Esfandiari-Bakhtiari are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q225993",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The name of the siblings in law of Soraya Esfandiari-Bakhtiari are",
+    "second_relation": "SIBLING",
+    "second_hop_target_ids": [
+      "Q5940835"
+    ]
+  },
+  {
+    "prompt": "The name of the siblings in law of Fawzia Fuad are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q238539",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The name of the siblings in law of Fawzia Fuad are",
+    "second_relation": "SIBLING",
+    "second_hop_target_ids": [
+      "Q5940835"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Someone Like You won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q166904",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Someone Like You won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Rolling in the Deep won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q170165",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Rolling in the Deep won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Set Fire to the Rain won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q321270",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Set Fire to the Rain won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Skyfall won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q326790",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Skyfall won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Hometown Glory won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q608671",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Hometown Glory won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Rumour Has It won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q948707",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Rumour Has It won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Chasing Pavements won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q1068057",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Chasing Pavements won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Cold Shoulder won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q1107851",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Cold Shoulder won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of My Same won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q1628466",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of My Same won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the award the composer of Turning Tables won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q1651777",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the composer of Turning Tables won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q112243"
+    ]
+  },
+  {
+    "prompt": "The name of the paternal grandmother of Alana Martina dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Maria Dolores dos Santos Aveiro",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q111968916",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q11571"
+    ],
+    "phrase": "The name of the paternal grandmother of Alana Martina dos Santos Aveiro is",
+    "second_relation": "MOTHER",
+    "second_hop_target_ids": [
+      "Q56166583"
+    ]
+  },
+  {
+    "prompt": "The name of the paternal grandmother of Bella Esmeralda is",
+    "answers": [
+      {
+        "value": "Maria Dolores dos Santos Aveiro",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q111968941",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q11571"
+    ],
+    "phrase": "The name of the paternal grandmother of Bella Esmeralda is",
+    "second_relation": "MOTHER",
+    "second_hop_target_ids": [
+      "Q56166583"
+    ]
+  },
+  {
+    "prompt": "The name of the paternal grandmother of Cristiano Ronaldo Jr is",
+    "answers": [
+      {
+        "value": "Maria Dolores dos Santos Aveiro",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q118125023",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q11571"
+    ],
+    "phrase": "The name of the paternal grandmother of Cristiano Ronaldo Jr is",
+    "second_relation": "MOTHER",
+    "second_hop_target_ids": [
+      "Q56166583"
+    ]
+  },
+  {
+    "prompt": "The gender of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "female",
+        "aliases": [
+          "woman",
+          "human female",
+          "female person",
+          "lady",
+          "female human",
+          "fairer sex",
+          "female gender",
+          "fem",
+          "♀",
+          "f",
+          "women",
+          "girl",
+          "girls",
+          "female character"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The gender of the mother of Cristiano Ronaldo is",
+    "second_relation": "SEX_OR_GENDER",
+    "second_hop_target_ids": [
+      "Q6581072"
+    ]
+  },
+  {
+    "prompt": "The name of the child of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "Cristiano Ronaldo",
+        "aliases": [
+          "Cristiano Ronaldo dos Santos Aveiro",
+          "CR7",
+          "Ronaldo"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The name of the child of the mother of Cristiano Ronaldo is",
+    "second_relation": "CHILD",
+    "second_hop_target_ids": [
+      "Q11571"
+    ]
+  },
+  {
+    "prompt": "The name of the child of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "Elma dos Santos Aveiro",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The name of the child of the mother of Cristiano Ronaldo is",
+    "second_relation": "CHILD",
+    "second_hop_target_ids": [
+      "Q56166621"
+    ]
+  },
+  {
+    "prompt": "The name of the child of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "Kátia Aveiro",
+        "aliases": [
+          "Ronalda",
+          "Liliana Cátia dos Santos Aveiro",
+          "Liliana Catia dos Santos Aveiro",
+          "Katia Aveiro"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The name of the child of the mother of Cristiano Ronaldo is",
+    "second_relation": "CHILD",
+    "second_hop_target_ids": [
+      "Q2165781"
+    ]
+  },
+  {
+    "prompt": "The name of the child of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "Hugo Aveiro",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The name of the child of the mother of Cristiano Ronaldo is",
+    "second_relation": "CHILD",
+    "second_hop_target_ids": [
+      "Q56166624"
+    ]
+  },
+  {
+    "prompt": "The name of the spouse of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "José Dinis Aveiro",
+        "aliases": [
+          "Dinis"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The name of the spouse of the mother of Cristiano Ronaldo is",
+    "second_relation": "SPOUSE",
+    "second_hop_target_ids": [
+      "Q56166223"
+    ]
+  },
+  {
+    "prompt": "The place of birth of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "Caniçal",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The place of birth of the mother of Cristiano Ronaldo is",
+    "second_relation": "PLACE_OF_BIRTH",
+    "second_hop_target_ids": [
+      "Q857987"
+    ]
+  },
+  {
+    "prompt": "The name of the maternal grandfather of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "José Nunes de Viveiros",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The name of the maternal grandfather of Cristiano Ronaldo is",
+    "second_relation": "FATHER",
+    "second_hop_target_ids": [
+      "Q56166653"
+    ]
+  },
+  {
+    "prompt": "The name of the maternal grandmother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "Matilde dos Santos da Viveiros",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The name of the maternal grandmother of Cristiano Ronaldo is",
+    "second_relation": "MOTHER",
+    "second_hop_target_ids": [
+      "Q56166655"
+    ]
+  },
+  {
+    "prompt": "The name of the country of citizenship of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "Portugal",
+        "aliases": [
+          "Portuguese Republic",
+          "PT",
+          "🇵🇹",
+          "PRT",
+          "POR"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": "The name of the country of citizenship of the mother of Cristiano Ronaldo is",
+    "second_relation": "COUNTRY_OF_CITIZENSHIP",
+    "second_hop_target_ids": [
+      "Q45"
+    ]
+  },
+  {
+    "prompt": "The name of the award the screenwriter of 1917 won is",
+    "answers": [
+      {
+        "value": "Dallas-Fort Worth Film Critics Association Award for Best Director",
+        "aliases": [
+          "Dallas–Fort Worth Film Critics Association Award for Best Director"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q62721520",
+    "relation": "SCREENWRITER",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The name of the award the screenwriter of 1917 won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q5211225"
+    ]
+  },
+  {
+    "prompt": "The name of the award the screenwriter of Empire of Light won is",
+    "answers": [
+      {
+        "value": "Dallas-Fort Worth Film Critics Association Award for Best Director",
+        "aliases": [
+          "Dallas–Fort Worth Film Critics Association Award for Best Director"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q110876878",
+    "relation": "SCREENWRITER",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The name of the award the screenwriter of Empire of Light won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q5211225"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of Revolutionary Road is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q276299",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of Revolutionary Road is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of Road to Perdition is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q468033",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of Road to Perdition is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of Away We Go is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q791651",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of Away We Go is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of Jarhead is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q848785",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of Jarhead is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of Charlie and the Chocolate Factory the Musical is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q5085750",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of Charlie and the Chocolate Factory the Musical is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of Spectre is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q18602670",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of Spectre is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of 1917 is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q62721520",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of 1917 is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of Skyfall is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q4941",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of Skyfall is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of American Beauty is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q25139",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of American Beauty is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the director of Empire of Light is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q110876878",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the director of Empire of Light is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the screenwriter of 1917 is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q62721520",
+    "relation": "SCREENWRITER",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the screenwriter of 1917 is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The occupation of the screenwriter of Empire of Light is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q110876878",
+    "relation": "SCREENWRITER",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": "The occupation of the screenwriter of Empire of Light is",
+    "second_relation": "OCCUPATION",
+    "second_hop_target_ids": [
+      "Q3282637"
+    ]
+  },
+  {
+    "prompt": "The name of the award the spouse of Rich Paul won is",
+    "answers": [
+      {
+        "value": "Broadcast Film Critics Association Award for Best Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q17612737",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the spouse of Rich Paul won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q904344"
+    ]
+  },
+  {
+    "prompt": "The name of the award the spouse of Simon Konecki won is",
+    "answers": [
+      {
+        "value": "Broadcast Film Critics Association Award for Best Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q30348038",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": "The name of the award the spouse of Simon Konecki won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q904344"
+    ]
+  },
+  {
+    "prompt": "The name of the award the founder of Rastakhiz Party won is",
+    "answers": [
+      {
+        "value": "Order of the Million Elephants and the White Parasol",
+        "aliases": [
+          "Order of the Million Elephants and the White Umbrella"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q1817611",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The name of the award the founder of Rastakhiz Party won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q3147057"
+    ]
+  },
+  {
+    "prompt": "The name of the award the founder of anniversary medal at the occasion of the 2500th anniversary of the founding of the Iranian Empire won is",
+    "answers": [
+      {
+        "value": "Order of the Million Elephants and the White Parasol",
+        "aliases": [
+          "Order of the Million Elephants and the White Umbrella"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q2001689",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The name of the award the founder of anniversary medal at the occasion of the 2500th anniversary of the founding of the Iranian Empire won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q3147057"
+    ]
+  },
+  {
+    "prompt": "The name of the award the founder of Fondation Avicenne won is",
+    "answers": [
+      {
+        "value": "Order of the Million Elephants and the White Parasol",
+        "aliases": [
+          "Order of the Million Elephants and the White Umbrella"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q3075384",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The name of the award the founder of Fondation Avicenne won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q3147057"
+    ]
+  },
+  {
+    "prompt": "The name of the award the founder of Industrial Development and Renovation Organization of Iran won is",
+    "answers": [
+      {
+        "value": "Order of the Million Elephants and the White Parasol",
+        "aliases": [
+          "Order of the Million Elephants and the White Umbrella"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q6027592",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The name of the award the founder of Industrial Development and Renovation Organization of Iran won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q3147057"
+    ]
+  },
+  {
+    "prompt": "The name of the award the founder of Homa Hotel Group won is",
+    "answers": [
+      {
+        "value": "Order of the Million Elephants and the White Parasol",
+        "aliases": [
+          "Order of the Million Elephants and the White Umbrella"
+        ]
+      }
+    ],
+    "query_type": "two_hop",
+    "subject_id": "Q10326524",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": "The name of the award the founder of Homa Hotel Group won is",
+    "second_relation": "AWARD_RECEIVED",
+    "second_hop_target_ids": [
+      "Q3147057"
+    ]
+  }
+]

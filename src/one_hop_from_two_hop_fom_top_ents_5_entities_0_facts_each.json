@@ -1,0 +1,1244 @@
+{
+  "Q256878_P22_Q128245": {
+    "prompt": "The name of the father of Shahnaz Pahlavi is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q256878",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q128245_P3373_Q5940835": {
+    "prompt": "The names of the siblings of Mohammad Reza Pahlavi are",
+    "answers": [
+      {
+        "value": "Gholam Reza Pahlavi",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q128245",
+    "relation": "SIBLING",
+    "target_ids": [
+      "Q5940835"
+    ],
+    "phrase": null
+  },
+  "Q334871_P22_Q128245": {
+    "prompt": "The name of the father of Reza Pahlavi is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q334871",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q922206_P22_Q128245": {
+    "prompt": "The name of the father of Farahnaz Pahlavi is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q922206",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q1070829_P22_Q128245": {
+    "prompt": "The name of the father of Ali Reza Pahlavi is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q1070829",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q1136913_P22_Q128245": {
+    "prompt": "The name of the father of Leila Pahlavi is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q1136913",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q164111_P26_Q128245": {
+    "prompt": "The name of the spouse of Farah Pahlavi is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q164111",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q225993_P26_Q128245": {
+    "prompt": "The name of the spouse of Soraya Esfandiari-Bakhtiari is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q225993",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q238539_P26_Q128245": {
+    "prompt": "The name of the spouse of Fawzia Fuad is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q238539",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q166904_P86_Q23215": {
+    "prompt": "The name of the composer of Someone Like You is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q166904",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q23215_P166_Q112243": {
+    "prompt": "The name of the award Adele won is",
+    "answers": [
+      {
+        "value": "Academy Award for Best Original Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q23215",
+    "relation": "AWARD_RECEIVED",
+    "target_ids": [
+      "Q112243"
+    ],
+    "phrase": null
+  },
+  "Q170165_P86_Q23215": {
+    "prompt": "The name of the composer of Rolling in the Deep is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q170165",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q321270_P86_Q23215": {
+    "prompt": "The name of the composer of Set Fire to the Rain is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q321270",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q326790_P86_Q23215": {
+    "prompt": "The name of the composer of Skyfall is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q326790",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q608671_P86_Q23215": {
+    "prompt": "The name of the composer of Hometown Glory is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q608671",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q948707_P86_Q23215": {
+    "prompt": "The name of the composer of Rumour Has It is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q948707",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q1068057_P86_Q23215": {
+    "prompt": "The name of the composer of Chasing Pavements is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q1068057",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q1107851_P86_Q23215": {
+    "prompt": "The name of the composer of Cold Shoulder is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q1107851",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q1628466_P86_Q23215": {
+    "prompt": "The name of the composer of My Same is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q1628466",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q1651777_P86_Q23215": {
+    "prompt": "The name of the composer of Turning Tables is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q1651777",
+    "relation": "COMPOSER",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P21_Q6581072": {
+    "prompt": "The gender of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "female",
+        "aliases": [
+          "woman",
+          "human female",
+          "female person",
+          "lady",
+          "female human",
+          "fairer sex",
+          "female gender",
+          "fem",
+          "♀",
+          "f",
+          "women",
+          "girl",
+          "girls",
+          "female character"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "SEX_OR_GENDER",
+    "target_ids": [
+      "Q6581072"
+    ],
+    "phrase": null
+  },
+  "Q11571_P25_Q56166583": {
+    "prompt": "The name of the mother of Cristiano Ronaldo is",
+    "answers": [
+      {
+        "value": "Maria Dolores dos Santos Aveiro",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q11571",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166583"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P40_Q11571": {
+    "prompt": "The name of the child of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Cristiano Ronaldo",
+        "aliases": [
+          "Cristiano Ronaldo dos Santos Aveiro",
+          "CR7",
+          "Ronaldo"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "CHILD",
+    "target_ids": [
+      "Q11571"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P40_Q56166621": {
+    "prompt": "The name of the child of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Elma dos Santos Aveiro",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "CHILD",
+    "target_ids": [
+      "Q56166621"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P40_Q2165781": {
+    "prompt": "The name of the child of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Kátia Aveiro",
+        "aliases": [
+          "Ronalda",
+          "Liliana Cátia dos Santos Aveiro",
+          "Liliana Catia dos Santos Aveiro",
+          "Katia Aveiro"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "CHILD",
+    "target_ids": [
+      "Q2165781"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P40_Q56166624": {
+    "prompt": "The name of the child of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Hugo Aveiro",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "CHILD",
+    "target_ids": [
+      "Q56166624"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P26_Q56166223": {
+    "prompt": "The name of the spouse of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "José Dinis Aveiro",
+        "aliases": [
+          "Dinis"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q56166223"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P19_Q857987": {
+    "prompt": "The place of birth of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Caniçal",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "PLACE_OF_BIRTH",
+    "target_ids": [
+      "Q857987"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P22_Q56166653": {
+    "prompt": "The name of the father of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "José Nunes de Viveiros",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q56166653"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P25_Q56166655": {
+    "prompt": "The name of the mother of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Matilde dos Santos da Viveiros",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "MOTHER",
+    "target_ids": [
+      "Q56166655"
+    ],
+    "phrase": null
+  },
+  "Q56166583_P27_Q45": {
+    "prompt": "The name of the country of citizenship of Maria Dolores dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Portugal",
+        "aliases": [
+          "Portuguese Republic",
+          "PT",
+          "🇵🇹",
+          "PRT",
+          "POR"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q56166583",
+    "relation": "COUNTRY_OF_CITIZENSHIP",
+    "target_ids": [
+      "Q45"
+    ],
+    "phrase": null
+  },
+  "Q111968916_P22_Q11571": {
+    "prompt": "The name of the father of Alana Martina dos Santos Aveiro is",
+    "answers": [
+      {
+        "value": "Cristiano Ronaldo",
+        "aliases": [
+          "Cristiano Ronaldo dos Santos Aveiro",
+          "CR7",
+          "Ronaldo"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q111968916",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q11571"
+    ],
+    "phrase": null
+  },
+  "Q111968941_P22_Q11571": {
+    "prompt": "The name of the father of Bella Esmeralda is",
+    "answers": [
+      {
+        "value": "Cristiano Ronaldo",
+        "aliases": [
+          "Cristiano Ronaldo dos Santos Aveiro",
+          "CR7",
+          "Ronaldo"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q111968941",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q11571"
+    ],
+    "phrase": null
+  },
+  "Q118125023_P22_Q11571": {
+    "prompt": "The name of the father of Cristiano Ronaldo Jr is",
+    "answers": [
+      {
+        "value": "Cristiano Ronaldo",
+        "aliases": [
+          "Cristiano Ronaldo dos Santos Aveiro",
+          "CR7",
+          "Ronaldo"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q118125023",
+    "relation": "FATHER",
+    "target_ids": [
+      "Q11571"
+    ],
+    "phrase": null
+  },
+  "Q62721520_P58_Q223233": {
+    "prompt": "The name of the screenwriter of 1917 is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q62721520",
+    "relation": "SCREENWRITER",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q223233_P166_Q5211225": {
+    "prompt": "The name of the award Sam Mendes won is",
+    "answers": [
+      {
+        "value": "Dallas-Fort Worth Film Critics Association Award for Best Director",
+        "aliases": [
+          "Dallas–Fort Worth Film Critics Association Award for Best Director"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q223233",
+    "relation": "AWARD_RECEIVED",
+    "target_ids": [
+      "Q5211225"
+    ],
+    "phrase": null
+  },
+  "Q110876878_P58_Q223233": {
+    "prompt": "The name of the screenwriter of Empire of Light is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q110876878",
+    "relation": "SCREENWRITER",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q276299_P57_Q223233": {
+    "prompt": "The name of the director of Revolutionary Road is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q276299",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q223233_P106_Q3282637": {
+    "prompt": "The occupation of Sam Mendes is",
+    "answers": [
+      {
+        "value": "film producer",
+        "aliases": [
+          "movie producer",
+          "producer"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q223233",
+    "relation": "OCCUPATION",
+    "target_ids": [
+      "Q3282637"
+    ],
+    "phrase": null
+  },
+  "Q468033_P57_Q223233": {
+    "prompt": "The name of the director of Road to Perdition is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q468033",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q791651_P57_Q223233": {
+    "prompt": "The name of the director of Away We Go is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q791651",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q848785_P57_Q223233": {
+    "prompt": "The name of the director of Jarhead is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q848785",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q5085750_P57_Q223233": {
+    "prompt": "The name of the director of Charlie and the Chocolate Factory the Musical is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q5085750",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q18602670_P57_Q223233": {
+    "prompt": "The name of the director of Spectre is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q18602670",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q62721520_P57_Q223233": {
+    "prompt": "The name of the director of 1917 is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q62721520",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q4941_P57_Q223233": {
+    "prompt": "The name of the director of Skyfall is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q4941",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q25139_P57_Q223233": {
+    "prompt": "The name of the director of American Beauty is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q25139",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q110876878_P57_Q223233": {
+    "prompt": "The name of the director of Empire of Light is",
+    "answers": [
+      {
+        "value": "Sam Mendes",
+        "aliases": [
+          "Samuel Alexander \"Sam\" Mendes",
+          "Samuel Alexander Mendes",
+          "Sir Samuel Alexander Mendes"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q110876878",
+    "relation": "DIRECTOR",
+    "target_ids": [
+      "Q223233"
+    ],
+    "phrase": null
+  },
+  "Q17612737_P26_Q23215": {
+    "prompt": "The name of the spouse of Rich Paul is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q17612737",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q23215_P166_Q904344": {
+    "prompt": "The name of the award Adele won is",
+    "answers": [
+      {
+        "value": "Broadcast Film Critics Association Award for Best Song",
+        "aliases": []
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q23215",
+    "relation": "AWARD_RECEIVED",
+    "target_ids": [
+      "Q904344"
+    ],
+    "phrase": null
+  },
+  "Q30348038_P26_Q23215": {
+    "prompt": "The name of the spouse of Simon Konecki is",
+    "answers": [
+      {
+        "value": "Adele",
+        "aliases": [
+          "Adele Adkins",
+          "Adele Laurie Blue Adkins"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q30348038",
+    "relation": "SPOUSE",
+    "target_ids": [
+      "Q23215"
+    ],
+    "phrase": null
+  },
+  "Q1817611_P112_Q128245": {
+    "prompt": "The name of the founder of Rastakhiz Party is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q1817611",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q128245_P166_Q3147057": {
+    "prompt": "The name of the award Mohammad Reza Pahlavi won is",
+    "answers": [
+      {
+        "value": "Order of the Million Elephants and the White Parasol",
+        "aliases": [
+          "Order of the Million Elephants and the White Umbrella"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q128245",
+    "relation": "AWARD_RECEIVED",
+    "target_ids": [
+      "Q3147057"
+    ],
+    "phrase": null
+  },
+  "Q2001689_P112_Q128245": {
+    "prompt": "The name of the founder of anniversary medal at the occasion of the 2500th anniversary of the founding of the Iranian Empire is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q2001689",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q3075384_P112_Q128245": {
+    "prompt": "The name of the founder of Fondation Avicenne is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q3075384",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q6027592_P112_Q128245": {
+    "prompt": "The name of the founder of Industrial Development and Renovation Organization of Iran is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q6027592",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  },
+  "Q10326524_P112_Q128245": {
+    "prompt": "The name of the founder of Homa Hotel Group is",
+    "answers": [
+      {
+        "value": "Mohammad Reza Pahlavi",
+        "aliases": [
+          "Mohammad Rezā Shāh Pahlavī",
+          "Shah of Iran Mohammad Reza Pahlavi",
+          "Shah of Iran Muḥammad Ri̤zā Shāh",
+          "Shah of Iran Moḥammad Rezā Shāh",
+          "Shah of Iran Mokhammed Reza Pakhlevi",
+          "Shah of Iran Muhammed Reza Pahlavi",
+          "Muḥammad, Shah of Iran Ri̤zā Shāh",
+          "Shah of Iran Mohammed Reza Pahlavi",
+          "Mohammed Reza, Shah of Iran Pahlavi",
+          "Mohammad Reza Shah Pahlavi",
+          "Mohammed Reza Pahlavi, Shah of Iran",
+          "Mohammed Reza Pahlavi",
+          "Mohammad-Reza Pahlavi",
+          "Mohammedreza pahlavi"
+        ]
+      }
+    ],
+    "query_type": "regular",
+    "subject_id": "Q10326524",
+    "relation": "FOUNDER",
+    "target_ids": [
+      "Q128245"
+    ],
+    "phrase": null
+  }
+}

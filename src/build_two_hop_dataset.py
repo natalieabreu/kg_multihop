@@ -22,14 +22,28 @@ from testcase import TestCase
 from two_hop_phrases import relation_couple_to_phrase
 
 def update_facts(facts, s, r, o):
-    f_string = f'{str(s)}_{str(r.id())}_{str(o)}'
+    if s == o:
+        return
+    # Subject ID + Relation as UUID -- multiple targets can be valid and/or be the same surface entity
+    f_string = f'{str(s)}_{str(r.id())}'
     if f_string not in facts:
         facts[f_string] = Query(s, r, o).to_dict()
+    elif f_string in facts:
+        if o not in facts[f_string]['target_ids']:
+            facts[f_string]['target_ids'].append(o)
 
 def update_two_hop_facts(facts, s, r, o, r2, o2, phrase):
-    f_string = f'{str(s)}_{str(r.id())}_{str(o)}_{str(r2.id())}_{str(o2)}'
+    if s == o2:
+        return
+    # Subject ID + Relation1 + Relation2 as UUID -- multiple targets can be valid and/or be the same surface entity
+    f_string = f'{str(s)}_{str(r.id())}_{str(r2.id())}'
     if f_string not in facts:
         facts[f_string] = TwoHopQuery(s, r, o, r2, o2, phrase).to_dict()
+    elif f_string in facts:
+        if o not in facts[f_string]['target_ids']:
+            facts[f_string]['target_ids'].append(o)
+        if o2 not in facts[f_string]['second_hop_target_ids']:
+            facts[f_string]['second_hop_target_ids'].append(o2)
 
 def forward_two_hop_axis(subject_id: str, relation: Relation, target_id: str, facts: dict, two_hop_facts: dict):
     tests = []
@@ -72,8 +86,9 @@ def two_hop_axis(subject_id: str, relation: Relation, target_id: str, facts: dic
 
 def build_two_hop_dataset(args):
     random.seed(args.seed)
-    DATA_DIR = '/Users/annabelle/workplace/RippleEdits/data/benchmark'
-    fname = os.path.join(DATA_DIR, args.facts_file)
+    DATA_DIR = '/n/holyscratch01/kempner_lab/Everyone/data/twohop'
+    SUBDIR = os.path.join(DATA_DIR, f'{args.facts_file}_{args.num_facts}_facts')
+    fname = os.path.join(DATA_DIR, args.facts_file+'.json')
     facts = load_json(fname)
     facts_str = list(facts.keys())
     random.shuffle(facts_str)
@@ -96,10 +111,10 @@ def build_two_hop_dataset(args):
             continue
         break
 
-    two_hop_fname = f'two_hop_fom_{args.facts_file}'
-    two_hop_fname_full = os.path.join(DATA_DIR, two_hop_fname)
+    two_hop_fname = f'two_hop_fom_{args.facts_file}_{args.num_facts}_facts_{args.seed}.json'
+    two_hop_fname_full = os.path.join(SUBDIR, two_hop_fname)
     one_hop_fname = f'one_hop_from_{two_hop_fname}'
-    one_hop_fname = os.path.join(DATA_DIR, one_hop_fname)
+    one_hop_fname = os.path.join(SUBDIR, one_hop_fname)
     to_file(two_hop_fname_full, two_hop_facts)
     to_file(one_hop_fname, one_hop_facts)
 
@@ -107,5 +122,5 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--num_facts", type=int, default=50)
     parser.add_argument("--seed", type=int, default=12345)
-    parser.add_argument("--facts_file", type=str, default='top_ents_5_entities_0_facts_each.json')
+    parser.add_argument("--facts_file", type=str, default='top_ents_5000_entities_0_facts_each')
     build_two_hop_dataset(parser.parse_args())

@@ -19,7 +19,7 @@ def build_one_hop_dataset(args):
     
     # # Use entity IDs to get facts, not labels
     # ents = list(ent_label2id_dict.values())
-    ent_fname = '/Users/annabelle/workplace/RippleEdits/data/benchmark/top_entities_by_views_monthly.json'
+    ent_fname = '/n/home01/nsaphra/workplace/twohop-1/src/top_entities_by_views_monthly.json'
     ent_dicts = load_json(ent_fname)
     ents = []
     for date in ent_dicts.keys():

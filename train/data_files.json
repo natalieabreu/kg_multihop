@@ -1,0 +1,72 @@
+{
+  "config_p1_1M": {
+    "num_experts": 1,
+    "expert_strategy": "denoising",
+    "num_samples": 1000000,
+    "entity_sampling_strategy": "uniform",
+    "entities_per_expert": 25803,
+    "confidence": 1.0,
+    "filepath": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors/202409-1123-4731.json",
+    "samples-only": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors/202409-1123-4731-samples.json"
+  },
+  "config_p1_10M": {
+    "num_experts": 1,
+    "expert_strategy": "denoising",
+    "num_samples": 10000000,
+    "entity_sampling_strategy": "uniform",
+    "entities_per_expert": 25803,
+    "confidence": 1.0,
+    "filepath": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_10000000_outneighbors/202409-1608-3521.json"
+  },
+  "debug": {
+    "num_experts": 10,
+    "expert_strategy": "denoising",
+    "num_samples": 100,
+    "entity_sampling_strategy": "uniform",
+    "entities_per_expert": 25803,
+    "confidence": 0.6,
+    "filepath": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_100/202408-1309-5157.json"
+  },
+  "config_p1_1M_orig_entities": {
+    "notes": "original_entities",
+    "num_experts": 1,
+    "expert_strategy": "denoising",
+    "num_samples": 1000000,
+    "entity_sampling_strategy": "uniform",
+    "entities_per_expert": 25803,
+    "confidence": 1.0,
+    "filepath": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors_orig_entities/202410-1614-4450.json",
+    "samples-only": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors_orig_entities/202410-1614-4450-samples.json"
+  },
+  "config_p1_1M_spo_templates": {
+    "notes": "spo_templates",
+    "num_experts": 1,
+    "expert_strategy": "denoising",
+    "num_samples": 1000000,
+    "entity_sampling_strategy": "uniform",
+    "entities_per_expert": 25803,
+    "confidence": 1.0,
+    "filepath": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors_spo/202410-1521-1013.json",
+    "samples-only": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors_spo/202410-1521-1013-samples.json"
+  },
+  "config_p1_1M_all_templates": {
+    "notes": "all_templates",
+    "num_experts": 1,
+    "expert_strategy": "denoising",
+    "num_samples": 1000000,
+    "entity_sampling_strategy": "uniform",
+    "entities_per_expert": 25803,
+    "confidence": 1.0,
+    "filepath": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors_all/202410-1521-1129.json",
+    "samples-only": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors_all/202410-1521-1129-samples.json"
+  },
+  "config_p0.8_1000experts_1M": {
+    "num_experts": 1000,
+    "expert_strategy": "denoising",
+    "num_samples": 1000000,
+    "entity_sampling_strategy": "uniform",
+    "entities_per_expert": 25803,
+    "confidence": 0.8,
+    "filepath": "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/denoising_1000000_outneighbors/202408-2609-1712.json"
+  }
+}

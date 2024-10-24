@@ -1,0 +1,19 @@
+streaming: True
+train_data_config: 
+- "config_p0.4_10experts_10M"
+eval_path: "/n/home07/nabreu/kg_multihop/eval-samples.json"
+eval_query_dataset_path: "/n/holyscratch01/barak_lab/Users/nabreu/transcendence_datasets/eval_dataset_queries.json"
+
+notes: None
+
+hyperparams:
+  num_epochs: [1, 2, 5, 10, 20]
+  max_samples: [100_000, 500_000, 1_000_000]
+  learning_rate: 0.001
+  weight_decay: 0.1
+  gradient_accumulation_steps: 3
+  warmup_steps: 1000
+  per_device_train_batch_size: 8
+  per_device_eval_batch_size: 2
+  eval_accumulation_steps: 100
+  

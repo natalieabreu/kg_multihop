@@ -14,6 +14,10 @@ class CustomTrainer(Trainer):
         self.cloze_task_fn = cloze_task_fn  # A function to evaluate cloze task
         self.cfg = cfg
 
+        if self.is_world_process_zero():
+            wandb.init(project="transcendence-denoising", config=cfg)
+        # wandb.config.update(self.cfg)
+
         self.eval_query_dataset_path = eval_query_dataset_path
         with open(eval_query_dataset_path, 'r') as f:
             eval_query_dataset = json.load(f)['samples']
@@ -49,7 +53,9 @@ class CustomTrainer(Trainer):
         """Custom evaluation logic for the cloze task"""
         # Assume `self.cloze_task_fn()` returns a dictionary of cloze task metrics
         cloze_metrics = self.cloze_task_fn(self.model, self.tokenizer, self.eval_query_dataset, batch_size=100)
+        cloze_metrics_temp_1 = self.cloze_task_fn(self.model, self.tokenizer, self.eval_query_dataset, batch_size=100, temperature=1.0)
         
+        cloze_metrics.update({'eval/query_accuracy_temp_1': cloze_metrics_temp_1['eval/query_accuracy']})
         return cloze_metrics
     
     def log_config(self):
